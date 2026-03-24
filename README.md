@@ -1,7 +1,7 @@
 # Immune-cell-correlation-analysis
-This page describes the code used to conduct immune cell correlation analysis for the manuscript "Exosome-like biogenesis from the Golgi releases extracellular vesicles lacking conventional tetraspanins that mediate immune evasion in cancer"
+This page describes the code used to conduct immune cell correlation analysis for the following manuscript:
 
-# Exosome-like biogenesis from the Golgi releases extracellular vesicles lacking conventional tetraspanins that mediate immune evasion in cancer
+## Exosome-like biogenesis from the Golgi releases extracellular vesicles lacking conventional tetraspanins that mediate immune evasion in cancer
 Ikjot S. Sohal<sup>1,2,3</sup>, Sydney N. Shaw<sup>1</sup>, Andrea P. dos Santos<sup>2,5</sup>, Bennett D. Elzey<sup>2,4,5</sup>, Haley Anne Harper<sup>2</sup>, Carlie McMahan<sup>2</sup>, Lauren N. Meeks<sup>1</sup>, Humna Hasan<sup>1</sup>, Zulaida Soto-Vargas<sup>1</sup>, Noor Abdullah<sup>1</sup>, Subhransu Sekhar Sahoo<sup>6</sup>, Majid Kazemian<sup>2,6,7</sup>, Matthew R. Olson<sup>1,2</sup>, Andrea L. Kasinski<sup>1,2*</sup>
 
 <sup>1</sup>1Department of Biological Sciences, Purdue University, West Lafayette, IN 47907, USA 
@@ -22,7 +22,7 @@ Ikjot S. Sohal<sup>1,2,3</sup>, Sydney N. Shaw<sup>1</sup>, Andrea P. dos Santos
 
 The authors declare no potential conflicts of interest
 
-# R script for immune cell correlation heatmap data extraction
+## R script for immune cell correlation heatmap data extraction
 The following script describes the steps to extract data from immune cell correlation heatmap from the TCGA (The Cancer Genome Atlas) data:
 
 ```
